@@ -1,0 +1,6 @@
+%{"cowboy": {:package, "1.0.0"},
+  "cowlib": {:package, "1.0.0"},
+  "plug": {:package, "0.8.0"},
+  "proper": {:git, "git://github.com/manopapad/proper.git", "87e4a56e8f97f1972cde44ed30500daa4641595f", [tag: "v1.1"]},
+  "ranch": {:package, "1.0.0"},
+  "sock_drawer": {:git, "https://github.com/fishcakez/sock_drawer.git", "98a64182257be13e515ab9205186b26db0936075", [tag: "v0.1.0"]}}
